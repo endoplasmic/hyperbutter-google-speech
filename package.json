@@ -1,0 +1,22 @@
+{
+  "name": "hyperbutter-google-speech",
+  "version": "1.0.0",
+  "description": "Takes audio samples and sends it off to the Google Speech API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endoplasmic/hyperbutter-google-speech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endoplasmic/hyperbutter-google-speech/issues"
+  },
+  "homepage": "https://github.com/endoplasmic/hyperbutter-google-speech#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^0.8.0",
+  }
+}
