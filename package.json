@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/endoplasmic/hyperbutter-google-speech.git"
   },
-  "author": "",
+  "author": "Scott Ysebert <endoplasmic@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/endoplasmic/hyperbutter-google-speech/issues"
   },
   "homepage": "https://github.com/endoplasmic/hyperbutter-google-speech#readme",
   "dependencies": {
-    "@google-cloud/speech": "^0.8.0",
+    "@google-cloud/speech": "^0.8.0"
   }
 }
