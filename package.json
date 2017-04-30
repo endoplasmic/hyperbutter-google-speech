@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/endoplasmic/hyperbutter-google-speech.git"
   },
+  "keywords": [
+    "hyperbutter",
+    "google",
+    "speech"
+  ],
   "author": "Scott Ysebert <endoplasmic@gmail.com>",
   "license": "ISC",
   "bugs": {
