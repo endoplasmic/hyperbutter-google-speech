@@ -1,6 +1,6 @@
 {
   "name": "hyperbutter-google-speech",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Takes audio samples and sends it off to the Google Speech API",
   "main": "index.js",
   "scripts": {
